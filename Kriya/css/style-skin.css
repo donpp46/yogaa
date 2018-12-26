@@ -1,0 +1,409 @@
+﻿@charset "utf-8";
+
+/******** ====== Skin Color Variations ========********/
+
+/* #7e8446 */
+th, thead td, tbody tr th, .post-edit-link:hover, .vc_inline-link:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, button:hover, .button:hover, .dt-sc-contact-form p input[type="submit"]:hover, .dt-sc-appointment-form p input[type="submit"]:hover, .split-header.boxed-header #header-wrapper::before, .main-header-wrapper, .dt-sc-skin-highlight, .dt-sc-skin-highlight.extend-bg-fullwidth-left:after, .dt-sc-skin-highlight.extend-bg-fullwidth-right:after, .blog-entry.sticky.entry-date-left .entry-date, .tagcloud a:hover, #footer .tagcloud a:hover,
+.dt-sc-contact-info.type2:hover span, .dt-sc-contact-info.type7:hover span, .dt-sc-counter.type3:hover .dt-sc-couter-icon-holder .icon-wrapper, .carousel-arrows a:hover, .dt-sc-team.type2:hover .dt-sc-team-meta, .dt-sc-pr-tb-col .dt-sc-buy-now a:hover, .dt-sc-icon-box.type5.round:hover .icon-wrapper, .dt-sc-icon-box.type7:hover .icon-wrapper span, .dt-sc-loading span, .dt-sc-icon-box.type11 .icon-wrapper span, .dt-sc-icon-box.type11 .icon-content .vc_btn3-container a, .dt-sc-icon-box.type11 .icon-content .vc_btn3-container button {
+    background-color: #373585;
+   
+}
+
+
+.portfolio .image-overlay:before {
+    background: -moz-linear-gradient(top, rgba(126,132,70,0) 0%, rgba(126,132,70,0.09) 14%, rgba(126,132,70,0.23) 28%, rgba(126,132,70,0.61) 58%, rgba(126,132,70,0.84) 79%, rgba(126,132,70,0.96) 93%, rgba(126,132,70,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(126,132,70,0) 0%,rgba(126,132,70,0.09) 14%,rgba(126,132,70,0.23) 28%,rgba(126,132,70,0.61) 58%,rgba(126,132,70,0.84) 79%,rgba(126,132,70,0.96) 93%,rgba(126,132,70,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(126,132,70,0) 0%,rgba(126,132,70,0.09) 14%,rgba(126,132,70,0.23) 28%,rgba(126,132,70,0.61) 58%,rgba(126,132,70,0.84) 79%,rgba(126,132,70,0.96) 93%,rgba(126,132,70,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007e8446', endColorstr='#7e8446',GradientType=0 ); /* IE6-9 */
+}
+
+.dt_yoga_courses-thumb .overlay {
+    background-color: rgba(126, 132, 70, 0.9);
+}
+
+
+.vc_tta.vc_general.vc_tta-style-bottomline.vc_tta-color-skincolor .vc_tta-tab.vc_active > a:after, .dt-sc-contact-info.type2:hover, .dt-sc-icon-box.type7:hover {
+    border-color: #7e8446;
+}
+
+/*#main-menu ul li.menu-item-simple-parent ul > li > a,*/
+#main-menu ul.menu li.menu-item-simple-parent ul > li.current_page_item > a, #main-menu ul.menu li.menu-item-simple-parent ul > li.current_page_ancestor > a, #main-menu ul.menu li.menu-item-simple-parent ul > li.current-menu-item > a, #main-menu ul.menu li.menu-item-simple-parent ul > li.current-menu-ancestor > a,
+#main-menu .megamenu-child-container ul.sub-menu > li.current_page_item > a, #main-menu .megamenu-child-container ul.sub-menu > li.current_page_ancestor > a, #main-menu .megamenu-child-container ul.sub-menu > li.current-menu-item > a, #main-menu .megamenu-child-container ul.sub-menu > li.current-menu-ancestor > a /*, #main-menu .megamenu-child-container ul.sub-menu > li.current_page_item > span, #main-menu .megamenu-child-container ul.sub-menu > li.current_page_ancestor > span, #main-menu .megamenu-child-container ul.sub-menu > li.current-menu-item > span, #main-menu .megamenu-child-container ul.sub-menu > li.current-menu-ancestor > span*/,
+td a, a:hover, .breadcrumb a, .dt-sc-sorting-container a:hover, .dt-sc-sorting-container a.active-sort, .widget ul li:hover:before, .widget ul li > a:hover,
+.vc_tta.vc_general.vc_tta-style-bottomline.vc_tta-color-skincolor .vc_tta-tab.vc_active > a, .vc_tta.vc_general.vc_tta-color-skincolor .vc_active .vc_tta-panel-title > a .vc_tta-title-text, .vc_toggle.vc_toggle_bottomline.vc_toggle_color_skincolor.vc_toggle_active .vc_toggle_title > h4, .dt-sc-testimonial-wrapper .carousel-arrows a:hover span:before, ul.dt-sc-fancy-list li span {
+    color: #689B32;
+}
+
+
+/* #ffda6b */
+input[type="submit"], input[type="reset"], input[type="button"], button, .button, .blog-entry.entry-date-left:hover .entry-details, ul.commentlist li .reply a:hover, .pagination ul li span, .pagination ul li a:hover, .post-nav-container a:hover,
+ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li > ul > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav > li > ul > li.current_page_item > a, ul.side-nav > li > ul > li > ul > li.current_page_item > a,
+.vc_btn3, .vc_general.vc_btn3.vc_btn3-color-skincolor, .vc_general.vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-outline, .vc_general.vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-outline:focus, .vc_general.vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-outline:hover, .dt-sc-contact-info.type6:hover, .dt-sc-image-caption.text-on-bottom.skin-bg, .dt-sc-image-caption.text-on-bottom.skin-bg-pattern, .dt-sc-image-caption.skin-bg .dt-sc-image-content, .dt-sc-image-caption.skin-bg-pattern .dt-sc-image-content, .dt-sc-team:hover, .dt-sc-icon-box.type11, .dt_yoga_poses:hover .dt_yoga_poses-detail, .dt_yoga_courses .dt_yoga_courses-thumb .overlay a, .dt_yoga_courses .dt_yoga_courses-detail:before, .dt-sc-event.type4 .dt-sc-event-date {
+    /*background-color: #ffda6b;*/
+    background-color: #FBBB2F;
+    
+}
+
+
+#main-menu ul.menu > li > a:before, #main-menu ul.menu > li > a:after, #main-menu ul li.menu-item-simple-parent ul, .split-header.boxed-header #slider .dt-sc-main-slider > div,
+.dt-sc-contact-info.type7:hover span, .dt-sc-counter.type3:hover .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-icon-box.type5.round:hover .icon-wrapper {
+    /*border-color: #ffda6b;*/
+    border-color: #FBBB2F;
+}
+
+
+.vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d {
+    box-shadow: 0 5px 0 rgba(255,218,107,0.5);
+}
+
+    .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-xs {
+        box-shadow: 0 3px 0 rgba(255,218,107,0.5);
+    }
+
+    .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-sm {
+        box-shadow: 0 4px 0 rgba(255,218,107,0.5);
+    }
+
+    .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-lg {
+        box-shadow: 0 5px 0 rgba(255,218,107,0.5);
+    }
+
+        .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d:focus, .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d:hover,
+        .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-xs:focus, .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-xs:hover,
+        .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-sm:focus, .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-sm:hover,
+        .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-lg:focus, .vc_btn3.vc_btn3-color-skincolor.vc_btn3-style-3d.vc_btn3-size-lg:hover {
+            box-shadow: 0 2px 0 rgba(255,218,107,0.5);
+        }
+
+
+#main-menu > ul.menu > li:hover > a, #main-menu > ul.menu > li > a:hover, #main-menu > ul.menu > li.current-menu-item > a, #main-menu > ul.menu > li.current-page-item > a {
+    color: #FBBB2F;
+}
+
+/*----*****---- << Woo Styles >> ----*****----*/
+
+/* #7e8446 */
+.woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce button:hover, .woocommerce input.button:hover, .woocommerce input[type=button]:hover, .woocommerce input[type=submit]:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce .product .summary .add_to_wishlist:hover, .woocommerce .wishlist_table .add_to_cart.button:hover, .woocommerce .yith-wcwl-add-button a.add_to_wishlist:hover, .woocommerce .yith-wcwl-popup-button a.add_to_wishlist:hover, .woocommerce .wishlist_table a.ask-an-estimate-button:hover, .woocommerce .wishlist-title a.show-title-form:hover, .woocommerce .hidden-title-form a.hide-title-form:hover, .woocommerce .yith-wcwl-wishlist-new button:hover, .woocommerce .wishlist_manage_table a.create-new-wishlist:hover, .woocommerce .wishlist_manage_table button.submit-wishlist-changes:hover, .woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover, .woocommerce .cart input.button:hover, .woocommerce .cart input.button:hover,
+.woocommerce a.button.disabled:hover, .woocommerce a.button:disabled:hover, .woocommerce a.button:disabled[disabled]:hover, .woocommerce button.button.disabled:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button:disabled[disabled]:hover, .woocommerce input.button.disabled:hover, .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit.disabled:hover, .woocommerce #respond input#submit:disabled:hover, .woocommerce #respond input#submit:disabled[disabled]:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a::after, .woocommerce .shop_table th {
+    background-color: #7e8446;
+}
+
+.woocommerce ul.products li.product:hover .product-content, .woocommerce ul.products li.product.instock:hover .on-sale-product .product-content, .woocommerce ul.products li.product.outofstock:hover .out-of-stock-product .product-content {
+    background-color: rgba(126,132,70,0.85);
+}
+
+.woocommerce .product .summary a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+    color: #7e8446;
+}
+
+
+/* #ffda6b */
+.woocommerce a.button, .woocommerce button.button, .woocommerce button, .woocommerce input.button, .woocommerce input[type="button"], .woocommerce input[type="submit"], .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce .woocommerce a.button.alt, .woocommerce .woocommerce button.button.alt, .woocommerce .woocommerce input.button.alt, .woocommerce .woocommerce #respond input#submit.alt, .woocommerce .product .summary .add_to_wishlist, .woocommerce .wishlist_table .add_to_cart.button, .woocommerce .yith-wcwl-add-button a.add_to_wishlist, .woocommerce .yith-wcwl-popup-button a.add_to_wishlist, .woocommerce .wishlist_table a.ask-an-estimate-button, .woocommerce .wishlist-title a.show-title-form, .woocommerce .hidden-title-form a.hide-title-form, .woocommerce .yith-wcwl-wishlist-new button, .woocommerce .wishlist_manage_table a.create-new-wishlist, .woocommerce .wishlist_manage_table button.submit-wishlist-changes, .woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button, .woocommerce .cart input.button,
+.woocommerce ul.products li.product:hover .product-wrapper .product-details, .woocommerce ul.products li.product .product-thumb a.add_to_cart_button, .woocommerce ul.products li.product .product-thumb a.button.product_type_simple, .woocommerce ul.products li.product .product-thumb a.button.product_type_variable, .woocommerce ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woocommerce ul.products li.product .product-thumb a.add_to_wishlist, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a, .woo-type16.woocommerce ul.products li.product .featured-tag, .woocommerce ul.products li.product:hover .featured-tag, .woocommerce ul.products li.product .featured-tag, .woocommerce ul.products li.product:hover .featured-tag, .woocommerce.single-product .featured-tag,
+.woocommerce-MyAccount-navigation ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li.is-active > a {
+    background-color: #FBBB2F;
+    /*background-color: #ffda6b;*/
+}
+
+    .woocommerce ul.products li.product .featured-tag::after, .woocommerce ul.products li.product:hover .featured-tag::after, .woocommerce.single-product .featured-tag::after {
+        /*border-color: #ffda6b;*/
+        border-color: #FBBB2F;
+    }
+
+
+/*----*****---- << Event Styles >> ----*****----*/
+
+/* #7e8446 */
+#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover, #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover, #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, #tribe-events .tribe-events-button:hover, .tribe-events-button:hover, .tribe-events-list-event-detail .tribe-events-read-more:hover, .tribe-events-day-time-slot .tribe-events-read-more:hover, .tribe-events-back > a:hover, .tribe-events-nav-previous a:hover, .tribe-events-nav-next a:hover, .tribe-events-sub-nav li a:hover,
+.tribe-events-calendar thead th, #tribe-events-content .tribe-events-tooltip h4, .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"], .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"] > a,
+#tribe-bar-form .tribe-bar-submit input[type="submit"]:hover, .tribe-events-read-more:hover, #tribe-events .tribe-events-button:hover, .tribe-events-button:hover, .tribe-events-back > a:hover,
+.tribe-grid-header, .tribe-grid-header .tribe-week-today {
+    background-color: #373585;
+}
+
+.datepicker thead tr:first-child th:hover, .datepicker tfoot tr th:hover,
+.tribe-grid-allday .tribe-events-week-allday-single, .tribe-grid-body .tribe-events-week-hourly-single {
+    background-color: rgba(126, 132, 70,0.85);
+}
+
+
+.type4.tribe_events .event-organize h4 a:hover, .type4.tribe_events .event-venue h4 a:hover {
+    color: #7e8446;
+}
+
+
+/* #ffda6b */
+#tribe-events .tribe-events-button, .tribe-events-button, #tribe-bar-form .tribe-bar-submit input[type="submit"], .tribe-events-read-more, .tribe-events-list .tribe-events-event-cost span, .tribe-events-back > a {
+    /*background-color: #ffda6b;*/
+    background-color: #FBBB2F;
+}
+
+
+/******** ====== Base / Generic Colors ========********/
+
+/* #f5f0e3 */
+body, #main, .main-title-section-wrapper, .portfolio .portfolio-detail .dt-portfolio-like::after, blockquote.type2 cite,
+.dt-sc-timeline-section.type3 .dt-sc-timeline .dt-sc-timeline-content:after, .dt-sc-hr-timeline-section.type2 .dt-sc-hr-timeline-content::before, .dt-sc-timeline-section.type5 .dt-sc-timeline .dt-sc-timeline-content .dt-sc-timeline-icon-wrapper, .valign_middle.type_vertical .vc_separator h4, .select2-dropdown {
+    background-color: #f5f0e3;
+}
+
+
+.dt-sc-counter.type4 .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-icon-box.type7 .icon-wrapper span, .dt-sc-icon-box.type3 .icon-wrapper span, .dt-sc-timeline-section.type5 .dt-sc-timeline .dt-sc-timeline-content .dt-sc-timeline-image-wrapper {
+    border-color: #f5f0e3;
+}
+
+.dt-portfolio-single-slider-wrapper #bx-pager a {
+    -webkit-box-shadow: 0 0 0 3px #f5f0e3 inset;
+    -moz-box-shadow: 0 0 0 3px #f5f0e3 inset;
+    -ms-box-shadow: 0 0 0 3px #f5f0e3 inset;
+    -o-box-shadow: 0 0 0 3px #f5f0e3 inset;
+    box-shadow: 0 0 0 3px #f5f0e3 inset;
+}
+
+
+.portfolio .portfolio-detail h5, .portfolio .portfolio-detail h5 a, .portfolio .portfolio-detail p, .portfolio .portfolio-detail .dt-portfolio-like, .portfolio .portfolio-detail .dt-portfolio-like .label, .tagcloud a:hover, #footer .tagcloud a, #footer .widget .tagcloud a:hover, #footer .wp-caption .wp-caption-text, #footer .widget a.button:hover,
+.dt-sc-pr-tb-col .dt-sc-buy-now a:hover {
+    color: #f5f0e3;
+}
+
+
+/* #484338 */
+hr, .vc_toggle_default.vc_toggle_bottomline .vc_toggle_icon::after, .vc_toggle_default.vc_toggle_bottomline .vc_toggle_icon::before, .dt-sc-counter.type5 .dt-sc-counter-number:after {
+    background-color: #484338;
+}
+
+
+body, a, .breadcrumb, .breadcrumb span.current, .widget ul li > a, .pagination ul li a, .pagination ul li span, .footer-copyright,
+.vc_general.vc_btn3.vc_btn3-color-skincolor:focus, .vc_general.vc_btn3.vc_btn3-color-skincolor:hover, .dt_yoga_poses-detail h6 a, .dt-sc-theme-type .vc_color-info.vc_message_box, .dt-sc-theme-type .vc_color-warning.vc_message_box, .dt-sc-theme-type .vc_color-success.vc_message_box, .dt-sc-theme-type .vc_color-danger.vc_message_box, .dt-sc-theme-type .vc_color-info.vc_message_box .vc_message_box-icon, .dt-sc-theme-type .vc_color-warning.vc_message_box .vc_message_box-icon, .dt-sc-theme-type .vc_color-success.vc_message_box .vc_message_box-icon, .dt-sc-theme-type .vc_color-danger.vc_message_box .vc_message_box-icon, .dt-sc-sociable li a, .dt-sc-team-social li a, .dt-sc-icon-box.type5.round .icon-wrapper span, .dt-sc-icon-box.type5.round.large-icon.pink .icon-content p, .dt-sc-icon-box.type5.round.large-icon.yellow .icon-content p, .dt-sc-icon-box.type5.round.large-icon.skyblue .icon-content p, .dt-sc-icon-box.type5.round.large-icon.lightbrown .icon-content p {
+    color: #484338;
+}
+
+#footer a:hover, #footer .widget a:hover, #footer .widget ul li a:hover, #footer .widget ul li:hover:before {
+    color: rgba(72,67,56,0.65);
+}
+
+
+/* #e5dbc1 */
+ul.commentlist li article.comment,
+.dt-sc-contact-info.type2 span, .dt-sc-contact-info.type6, .dt-sc-contact-info.type7 span, .dt-sc-counter.type3 .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-hr-timeline-section.type2 .dt-sc-timeline-icon-wrapper span, .dt-sc-testimonial.type6::after, .dt-sc-testimonial.type6 .dt-sc-testimonial-author::before, .dt-sc-team.type2 .dt-sc-team-meta, .dt-sc-icon-box.type3 .icon-wrapper span, .dt-sc-icon-box.type5.round .icon-wrapper, .dt-sc-icon-box.type5.round .image-wrapper, .dt-sc-icon-box.type7 .icon-wrapper span, .dt-sc-image-caption .dt-sc-image-content, .dt-sc-event.type4 h2.entry-title {
+    background-color: #e5dbc1;
+}
+
+.dt-sc-image-caption .dt-sc-image-wrapper .icon-wrapper::before {
+    border-bottom-color: #e5dbc1;
+}
+
+
+/* #a58251 */
+#footer .wp-caption, #footer .tagcloud a,
+.vc_btn3.vc_btn3-color-skincolor.vc_btn3-icon-sep-line i:after {
+    background-color: #a58251;
+}
+
+
+.widgettitle:before, .dt-sc-sorting-container a:before, .dt-sc-sorting-container a:after, .dt-portfolio-single-slider-wrapper #bx-pager a.active,
+.vc_general.vc_btn3.vc_btn3-color-skincolor, .vc_general.vc_btn3.vc_btn3-color-skincolor:focus, .vc_general.vc_btn3.vc_btn3-color-skincolor:hover, .dt_yoga_poses .dt_yoga_poses-detail:after, .vc_tta.vc_general.vc_tta-style-bottomline.vc_tta-color-skincolor .vc_tta-tab > a, .vc_tta.vc_tta-accordion.vc_general.vc_tta-style-bottomline.vc_tta-color-skincolor .vc_tta-panel-heading, .vc_toggle.vc_toggle_bottomline .vc_toggle_title, .dt-sc-hr-timeline-section.type2 .dt-sc-hr-timeline-content h3:before, .dt-sc-timeline-section.type3 .dt-sc-timeline .dt-sc-timeline-content h2:before, .dt-sc-pr-tb-col .icon-wrapper, .dt-sc-pr-tb-col .dt-sc-buy-now a, .dt-sc-icon-box.type5 .icon-content h4:after, .dt-sc-icon-box.type1 .icon-content h4::before {
+    border-color: #a58251;
+}
+
+.dt-sc-testimonial.type5 .dt-sc-testimonial-quote {
+    border-color: rgba(165, 130, 81, 0.25);
+}
+
+ul.side-nav, ul.side-nav li, ul.side-nav li ul, ul.side-nav li a:before {
+    border-color: rgba(165, 130, 81, 0.4);
+}
+
+
+.dt-sc-pr-tb-col .icon-wrapper span, .dt-sc-pr-tb-col .dt-sc-buy-now a, .dt-sc-icon-box.type5 .icon-wrapper span, .dt-sc-icon-box.type8 .icon-wrapper span, .dt-sc-icon-box.type1 .icon-wrapper span, .dt-sc-icon-box.type2 .icon-wrapper span, .dt-sc-icon-box.type4 .icon-wrapper span {
+    color: #a58251;
+}
+
+.dt-sc-testimonial.type4 .dt-sc-testimonial-author cite, .dt-sc-testimonial.type5 .dt-sc-testimonial-author cite {
+    color: rgba(165, 130, 81, 0.75);
+}
+
+
+/* #d4ad76 */
+.footer-widgets {
+    background-color: #d4ad76;
+}
+
+.dt_yoga_courses .dt_yoga_courses-detail .dt_yoga_courses-meta {
+    border-color: #d4ad76;
+}
+
+.breadcrumb .fa, .blog-entry.entry-date-left .entry-date span, .blog-entry.entry-date-author-left .entry-date-author .entry-date span,
+.dt-sc-event.type4 .dt-sc-event-date span {
+    color: #d4ad76;
+}
+
+
+.tagcloud a {
+    background-color: #d1c9b3;
+}
+
+
+/******** ====== Woo Styles ========********/
+
+/* #f5f0e3 */
+.woocommerce ul.products li.product:hover .product-wrapper .product-thumb, .woocommerce-tabs .panel, .select2-results, .woocommerce .woocommerce-message, .woocommerce .woocommerce-info, .woocommerce .woocommerce-error, .woocommerce-checkout .select2-search input, .woocommerce-checkout .select2-drop, .woocommerce ul.products li.product:hover .product-wrapper .product-thumb, .woocommerce-tabs .panel, .select2-results, .woocommerce .woocommerce-message, .woocommerce .woocommerce-info, .woocommerce .woocommerce-error, .woocommerce-checkout .select2-search input, .woocommerce-checkout .select2-drop {
+    background-color: #f5f0e3;
+}
+
+
+/* #e5dbc1 */
+.woocommerce ul.products li.product .product-wrapper .product-thumb, .woocommerce ul.products li.product .product-wrapper .product-details {
+    background-color: #e5dbc1;
+}
+
+
+/* #a58251 */
+.woocommerce ul.products li.product .product-wrapper:after, .woocommerce .widget_shopping_cart .total, .woocommerce.widget_shopping_cart .total, #footer .widget.woocommerce ul.product_list_widget li a img {
+    border-color: #a58251;
+}
+
+.woocommerce ul.products li.product .product-wrapper:before, .woocommerce div.product div.images .woocommerce-main-image:after, .woocommerce div.product div.images div.thumbnails a img, .woocommerce div.product .woocommerce-tabs ul.tabs::before, .woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce #reviews #comments ol.commentlist li .comment-text {
+    border-color: rgba(165, 130, 81, 0.25);
+}
+
+.woocommerce .star-rating::before, .woocommerce .stars a, .woocommerce ul.products li.product .star-rating::before, .woocommerce p.stars a.star-1, .woocommerce p.stars a.star-2, .woocommerce p.stars a.star-3, .woocommerce p.stars a.star-4, .woocommerce p.stars a.star-5 {
+    border-color: rgba(165, 130, 81, 0.15);
+}
+
+.widget.woocommerce ul.product_list_widget li, .widget.woocommerce ul.product-categories li:last-child, .widget.woocommerce ul.product_list_widget li a img, .select2-container .select2-choice, .woocommerce-MyAccount-navigation ul, .woocommerce-MyAccount-navigation ul li, .woocommerce-MyAccount-navigation ul li ul, .woocommerce-MyAccount-navigation ul li a:before, .woocommerce-EditAccountForm fieldset, .select2-container--default .select2-selection--single {
+    border-color: rgba(165, 130, 81, 0.4);
+}
+
+
+/* #484338 */
+.woocommerce a.button, .woocommerce button.button, .woocommerce button, .woocommerce input.button, .woocommerce input[type=button], .woocommerce input[type=submit], .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce .woocommerce a.button.alt, .woocommerce .woocommerce button.button.alt, .woocommerce .woocommerce input.button.alt, .woocommerce .woocommerce #respond input#submit.alt, .woocommerce .product .summary .add_to_wishlist, .woocommerce .wishlist_table .add_to_cart.button, .woocommerce .yith-wcwl-add-button a.add_to_wishlist, .woocommerce .yith-wcwl-popup-button a.add_to_wishlist, .woocommerce .wishlist_table a.ask-an-estimate-button, .woocommerce .wishlist-title a.show-title-form, .woocommerce .hidden-title-form a.hide-title-form, .woocommerce .yith-wcwl-wishlist-new button, .woocommerce .wishlist_manage_table a.create-new-wishlist, .woocommerce .wishlist_manage_table button.submit-wishlist-changes, .woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button, .woocommerce .cart input.button, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce .product .summary a:hover, .woocommerce ul.products li.product .price del, .woocommerce ul.products li.product .price del .amount, .woocommerce ul.products li.product .star-rating span::before, #footer .woocommerce .star-rating span::before {
+    color: #484338;
+}
+
+
+/******** ====== Events ========********/
+
+/* #e5dbc1 */
+#tribe-events-photo-events .type-tribe_events.tribe-events-photo-event, .tribe-events-photo-event-wrap {
+    background-color: #e5dbc1;
+}
+
+/* #a58251 */
+.type4.tribe_events .data-wrapper p {
+    border-color: rgba(165, 130, 81, 0.4);
+}
+
+/* #484338 */
+.tribe-events-list .tribe-events-event-cost span, .tribe-events-list-event-detail .tribe-events-read-more, .tribe-events-day-time-slot .tribe-events-read-more, .tribe-events-back > a {
+    border-color: #484338;
+}
+
+.type4.tribe_events .data-wrapper p span, .type4.tribe_events .data-wrapper p i, .type4.tribe_events .event-organize h4 a, .type4.tribe_events .event-venue h4 a, .dt-sc-event.type4 h2.entry-title a,
+.type4.tribe_events .event-details li dt, .type4.tribe_events .event-organize li dt, .type4.tribe_events .event-venue li dt {
+    color: #484338;
+}
+
+
+
+/* #fff */
+td, tbody th, .blog-entry.entry-date-left .entry-details, .blog-entry.entry-date-left:hover .entry-date, ul.commentlist li .comment-details, ul.commentlist li #respond,
+.pagination ul li a, .pagination ul li span, .post-nav-container .post-next-link a, .post-nav-container .post-prev-link a,
+.dt-sc-titled-box .vc_message_box_content, .dt-sc-team, .dt_yoga_poses-detail, .dt_yoga_courses-detail, .dt_yoga_courses .dt_yoga_courses-thumb .overlay a:hover, .dt_yoga_courses:hover .dt_yoga_courses-detail .dt_yoga_courses-price, .dt-sc-pr-tb-col, .dt-sc-pr-tb-col .icon-wrapper,
+.dt-sc-event.type4 h2.entry-title:after, .dt-sc-event.type4 .dt-sc-event-date span {
+    background-color: #fff;
+}
+
+.woocommerce table.shop_table td, .woocommerce tbody td, .woocommerce tbody th, .woocommerce table.shop_attributes .alt td, .woocommerce table.shop_attributes .alt th, .woocommerce .cart_totals table.shop_table th, .woocommerce-page .cart_totals table.shop_table th, .woocommerce .cart-collaterals .shop_table tbody tr:nth-child(2n+1) th, .woocommerce-page .cart-collaterals .shop_table tbody tr:nth-child(2n+1) th, .woocommerce .shop_attributes tbody tr:nth-child(2n+1) th, .woocommerce-page .shop_attributes tbody tr:nth-child(2n+1) th, .woocommerce .quantity .qty, .woocommerce-page .quantity .qty {
+    background-color: #fff;
+}
+
+
+/* New */
+.dt-sc-loading span:before {
+    border-color: #ffda6b #7e8446;
+}
+
+
+/******** ====== Base / Generic Color Override ========********/
+
+
+.blog-entry.entry-date-left .entry-date, .blog-entry.entry-date-author-left .entry-date-author .entry-date, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li > ul > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav > li > ul > li.current_page_item > a, ul.side-nav > li > ul > li > ul > li.current_page_item > a,
+.dt_yoga_courses .dt_yoga_courses-detail .dt_yoga_courses-price {
+    background-color: #e5dbc1;
+}
+
+
+.outer-frame-border:after, .inner-frame-border:before,
+.valign_middle.type_vertical .vc_separator h4:before, .dt-sc-team.type2 .dt-sc-team-meta:before, .dt-sc-team.type2 .dt-sc-team-social:before, .dt-sc-pr-tb-col .dt-sc-price {
+    border-color: #a58251;
+}
+
+.outer-frame-border:before, .dt-sc-contact-info.type2, .dt-sc-icon-box.type7, .dt-sc-icon-box.type8, .dt-sc-testimonial.type6 .dt-sc-testimonial-author img {
+    border-color: rgba(165, 130, 81,0.25);
+}
+
+
+input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="range"], input[type="date"], textarea, input.text, input[type="search"], select, textarea, .main-title-section-wrapper, .widget ul li, .widget.widget_nav_menu ul.menu li, .wp-caption, .dt-sc-contact-form p span.icon:before, .dt-sc-newsletter-form p span.icon:before, .dt-sc-appointment-form p span.icon:before, .dt-sc-appointment-form .selection-box-wrapper > span:before, .dt-sc-appointment-form .captcha-img, .dt-sc-appointment-form.with-bg.inner-frame-border:before, ul.side-nav, ul.side-nav li, ul.side-nav li ul, ul.side-nav li a:before, .dt_yoga_poses-detail:before {
+    border-color: rgba(165, 130, 81, 0.3);
+}
+
+#footer .widget ul li, #footer .widget.widget_nav_menu ul.menu li, #footer .wp-caption, .dt-sc-icon-box.type5.no-icon, .dt-sc-pr-tb-col .dt-sc-tb-content li {
+    border-color: rgba(165, 130, 81, 0.5);
+}
+
+
+.dt-sc-team.type2:hover .dt-sc-team-meta:before, .dt-sc-team.type2:hover .dt-sc-team-social:before,
+.dt_yoga_courses:hover .dt_yoga_courses-detail .dt_yoga_courses-meta {
+    border-color: #d4ad76;
+}
+
+
+    input[type="submit"], input[type="reset"], input[type="button"], button, .blog-entry.entry-date-left:hover .entry-details p, .blog-entry.entry-date-left:hover .entry-details p a, .blog-entry.entry-date-left:hover .entry-details h4 a, .blog-entry.entry-date-left:hover .entry-details .vc_general.vc_btn3.vc_btn3-color-skincolor,
+    .blog-entry.entry-date-left .entry-details .vc_general.vc_btn3.vc_btn3-color-skincolor, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li > ul > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav > li > ul > li.current_page_item > a, ul.side-nav > li > ul > li > ul > li.current_page_item > a, ul.side-nav li a:hover:before, ul.side-nav > li.current_page_item > a:before, ul.side-nav > li > ul > li.current_page_item > a:before, ul.side-nav > li > ul > li > ul > li.current_page_item > a:before,
+    .vc_general.vc_btn3.vc_btn3-color-skincolor, .dt-sc-team.type1:hover, .dt-sc-team.type1:hover .dt-sc-team-social li a, .dt-sc-team.type2:hover p, .dt-sc-team.type2:hover .dt-sc-team-social li a, .dt_yoga_courses .dt_yoga_courses-thumb .overlay a, .dt_yoga_courses:hover .dt_yoga_courses-detail p, .dt_yoga_courses:hover .dt_yoga_courses-detail h6 a, .dt_yoga_courses:hover .dt_yoga_courses-detail .dt_yoga_courses-meta p a, .dt_yoga_courses:hover .dt_yoga_courses-detail .dt_yoga_courses-times a, .dt_yoga_poses:hover .dt_yoga_poses-detail, .dt_yoga_poses:hover .dt_yoga_poses-detail h4 a, .dt-sc-contact-info.type6:hover, .dt-sc-contact-info.type6:hover a, .dt-sc-icon-box.type11 .icon-content, .dt-sc-event.type4 .dt-sc-event-date, .dt-sc-event.type4 .dt-sc-event-date i, .dt_yoga_courses .dt_yoga_courses-thumb .overlay a:hover,
+    .vc_btn3.vc_btn3-color-skincolor.vc_btn3-icon-sep-line.icon-filled:hover i {
+        color: #484338;
+    }
+
+        .dt-sc-event.type4 .dt-sc-event-date span {
+            color: #d4ad76;
+        }
+
+
+.woocommerce-MyAccount-navigation ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li.is-active > a {
+    background-color: #e5dbc1;
+}
+
+
+.woocommerce ul.products li.product .product-details h5:after,
+.woocommerce ul.products li.product .product-details h5 a:before,
+.woocommerce ul.products li.product .product-details h5 a:after {
+    border-color: #484338;
+}
+
+.woocommerce ul.products li.product:hover .product-details h5:after,
+.woocommerce ul.products li.product:hover .product-details h5 a:before,
+.woocommerce ul.products li.product:hover .product-details h5 a:after {
+    border-color: #484338;
+}
+
+
+.woocommerce ul.products li.product .product-thumb a.add_to_cart_button, .woocommerce ul.products li.product .product-thumb a.button.product_type_simple, .woocommerce ul.products li.product .product-thumb a.button.product_type_variable, .woocommerce ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woocommerce ul.products li.product .product-thumb a.add_to_wishlist, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a,
+.woocommerce ul.products li.product .product-thumb a.add_to_cart_button:before, .woocommerce ul.products li.product .product-thumb a.button.product_type_simple:before, .woocommerce ul.products li.product .product-thumb a.button.product_type_variable:before, .woocommerce ul.products li.product .product-thumb a.added_to_cart.wc-forward:before, .woocommerce ul.products li.product .product-thumb a.add_to_wishlist:before, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:before, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:before,
+.woocommerce ul.products li.product:hover .product-details h5 a, .woocommerce ul.products li.product-category:hover .product-details h5, .woocommerce ul.products li.product:hover .price, .woocommerce ul.products li.product:hover .price del, .woocommerce ul.products li.product:hover .price del .amount, .woocommerce ul.products li.product:hover .price ins, .woocommerce ul.products li.product:hover .price ins .amount {
+    color: #484338;
+}
+
+
+    .woocommerce ul.products li.product .product-thumb a.add_to_cart_button:hover, .woocommerce ul.products li.product .product-thumb a.button.product_type_simple:hover, .woocommerce ul.products li.product .product-thumb a.button.product_type_variable:hover, .woocommerce ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover, .woocommerce ul.products li.product .product-thumb a.add_to_wishlist:hover, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover,
+    .woocommerce ul.products li.product .product-thumb a.add_to_cart_button:hover:before, .woocommerce ul.products li.product .product-thumb a.button.product_type_simple:hover:before, .woocommerce ul.products li.product .product-thumb a.button.product_type_variable:hover:before, .woocommerce ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover:before, .woocommerce ul.products li.product .product-thumb a.add_to_wishlist:hover:before, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover:before, .woocommerce ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover:before,
+    .woocommerce-MyAccount-navigation ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li > a:hover, .woocommerce-MyAccount-navigation ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li.is-active > a, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li.is-active > a, .woocommerce-MyAccount-navigation ul li a:hover:before, .woocommerce-MyAccount-navigation ul > li.is-active > a:before, .woocommerce-MyAccount-navigation ul > li > ul > li.is-active > a:before, .woocommerce-MyAccount-navigation ul > li > ul > li > ul > li.is-active > a:before {
+        color: #484338;
+    }
+
+
+#tribe-events .tribe-events-button, .tribe-events-button, #tribe-bar-form .tribe-bar-submit input[type="submit"], .tribe-events-read-more, .tribe-events-list-event-detail .tribe-events-read-more, .tribe-events-day-time-slot .tribe-events-read-more, .tribe-events-back > a, .tribe-events-nav-previous a, .tribe-events-nav-next a, .tribe-events-sub-nav li a {
+    color: #484338;
+}

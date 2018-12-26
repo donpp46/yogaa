@@ -1,0 +1,17 @@
+D:\Omnificence\SVN Code\Visualinsights\source\framework\bin\Release\Framework.dll
+D:\Omnificence\SVN Code\Visualinsights\source\framework\bin\Release\Framework.pdb
+D:\Omnificence\SVN Code\Visualinsights\source\framework\bin\Release\ephtmltopdf.dll
+D:\Omnificence\SVN Code\Visualinsights\source\framework\bin\Release\Ionic.Zip.dll
+D:\Omnificence\SVN Code\Visualinsights\source\framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+D:\Omnificence\SVN Code\Visualinsights\source\framework\obj\Release\Framework.dll
+D:\Omnificence\SVN Code\Visualinsights\source\framework\obj\Release\Framework.pdb
+D:\Medtrix\Projects\framework\bin\Release\Framework.dll
+D:\Medtrix\Projects\framework\bin\Release\Framework.pdb
+D:\Medtrix\Projects\framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+D:\Medtrix\Projects\framework\obj\Release\Framework.dll
+D:\Medtrix\Projects\framework\obj\Release\Framework.pdb
+C:\Work\Medtrix\Medtrix\Projects\framework\bin\Release\Framework.dll
+C:\Work\Medtrix\Medtrix\Projects\framework\bin\Release\Framework.pdb
+C:\Work\Medtrix\Medtrix\Projects\framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+C:\Work\Medtrix\Medtrix\Projects\framework\obj\Release\Framework.dll
+C:\Work\Medtrix\Medtrix\Projects\framework\obj\Release\Framework.pdb

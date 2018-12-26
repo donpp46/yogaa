@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Kriya", "Kriya\", "{EA4D99D3-F611-4909-BCF8-319791906A81}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{ff99c7a1-b0ac-4c4a-943b-041f244e5db7}|Framework.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4384"
+		Debug.AspNetCompiler.PhysicalPath = "Kriya\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4384\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4384"
+		Release.AspNetCompiler.PhysicalPath = "Kriya\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4384\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4384"
+		SlnRelativePath = "Kriya\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "framework\Framework.csproj", "{FF99C7A1-B0AC-4C4A-943B-041F244E5DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4D99D3-F611-4909-BCF8-319791906A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4D99D3-F611-4909-BCF8-319791906A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4D99D3-F611-4909-BCF8-319791906A81}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4D99D3-F611-4909-BCF8-319791906A81}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FF99C7A1-B0AC-4C4A-943B-041F244E5DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF99C7A1-B0AC-4C4A-943B-041F244E5DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF99C7A1-B0AC-4C4A-943B-041F244E5DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF99C7A1-B0AC-4C4A-943B-041F244E5DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C8DB2CA-1C9C-46ED-AA0C-DB986AD3F8FB}
+	EndGlobalSection
+EndGlobal

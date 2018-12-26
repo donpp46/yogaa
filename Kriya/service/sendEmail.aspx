@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="sendEmail.aspx.cs" Inherits="service_sendEmail" %>

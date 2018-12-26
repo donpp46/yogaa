@@ -1,0 +1,47 @@
+﻿body {
+}
+.loader {
+    background-color: #958782;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999991;
+}
+.loader-inner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.loader-inner > div {
+    background-image: url(images/loader-image-yoga.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 50vw;
+    max-height: 347px;
+    max-width: 432px;
+    width: 70vw;
+    -webkit-animation: 4s floating infinite ease-in-out;
+    -moz-animation: 4s floating infinite ease-in-out;
+ 
+    -o-animation: 4s floating infinite ease-in-out;
+    animation: 4s floating infinite ease-in-out;
+}
+@keyframes floating {
+    0% {
+        transform:translateY(0%);
+    }
+    50% {
+        transform: translateY(8%);
+    }
+    100% {
+        transform: translateY(0%);
+    }
+}

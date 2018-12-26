@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/******** ====== Events Calendar Widgets ========********/
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar th { background:#ffffff; border-color:rgba(0, 0, 0, 0.1); color:rgba(0, 0, 0, 0.5); font-weight:600; font-size:13px; padding:3px 0; }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-mini-calendar-no-event { color:rgba(0, 0, 0, 0.3); }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-present .tribe-mini-calendar-no-event { color:#ffffff; }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events { background:rgba(0, 0, 0, 0.1); }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events a { color:rgba(0, 0, 0, 0.4); }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events.tribe-mini-calendar-today a { color:#ffffff; }
+
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events:hover a:hover { background:rgba(0, 0, 0, 0.15); }
+
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr:nth-child(2n+1) td { background: rgba(0, 0, 0, 0.05); }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody td { background:rgba(0, 0, 0, 0.05); }
+.widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr:nth-child(2n+1) .tribe-events-othermonth, .widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr .tribe-events-othermonth { background:rgba(0, 0, 0, 0.02); }
+
+.widget.tribe-events-countdown-widget .tribe-countdown-text a { color:#000000; font-weight:600; }
+.widget.tribe-events-venue-widget .tribe-venue-widget-venue-name { font-size:14px; font-weight:600; }
+.widget.tribe-events-venue-widget .tribe-venue-widget-venue-name a { color:#000000; }
+.widget.tribe-events-venue-widget .tribe-venue-widget-list { margin:15px 0 0; }
+.widget.tribe-events-venue-widget .tribe-venue-widget-list li { padding-top:3px; }
+.widget.tribe-events-venue-widget .tribe-venue-widget-list .entry-title { font-size:14px; }
+
+.tribe-mini-calendar-event .list-info h2 { font-weight:600; }
+.tribe-mini-calendar-event .list-date { background:rgba(0, 0, 0, 0.05); }
+.tribe-mini-calendar-event .list-date .list-daynumber { color:#000000; font-size:12px; }
+.tribe-events-adv-list-widget .duration { margin-bottom:10px; display:inline; line-height:20px; }
+.tribe-events-adv-list-widget .location { color:rgba(0, 0, 0, 0.5); line-height:20px; }
+.tribe-events-adv-list-widget .tribe-events-duration, .tribe-events-adv-list-widget .tribe-events-location { line-height:24px; }
+
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar th { background:rgba(255, 255, 255, 0.1); color:#ffffff; }
+.dt-sc-dark-bg .widget.tribe-events-countdown-widget .tribe-countdown-number { color:#ffffff; }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-mini-calendar-no-event { color:rgba(255, 255, 255, 0.5); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events { background:rgba(255, 255, 255, 0.4); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events a { color:rgba(255, 255, 255, 0.5); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events:hover a:hover { background:rgba(255, 255, 255, 0.5); }
+
+.dt-sc-dark-bg .widget.tribe-events-countdown-widget .tribe-countdown-text a, .dt-sc-dark-bg .widget.tribe-events-venue-widget .tribe-venue-widget-venue-name a, .dt-sc-dark-bg .tribe-mini-calendar-event .list-date .list-daynumber { color:#ffffff; }
+.dt-sc-dark-bg .tribe-events-adv-list-widget .location { color:rgba(255, 255, 255, 0.5); }
+.dt-sc-dark-bg .tribe-mini-calendar-event .list-date { background:rgba(255, 255, 255, 0.3); }
+
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar td { border-color:rgba(255, 255, 255, 0.2); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr:nth-child(2n+1) td { background: rgba(255, 255, 255, 0.3); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody td { background:rgba(255, 255, 255, 0.3); }
+.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr:nth-child(2n+1) .tribe-events-othermonth, .dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar tbody tr .tribe-events-othermonth { background:rgba(255, 255, 255, 0.2); }
